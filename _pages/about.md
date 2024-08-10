@@ -1,19 +1,10 @@
 ---
-layout: about
-title: about
 permalink: /
-subtitle: Mymensingh, Bangladesh
-
-profile:
-  align: right
-  image: site-logo.png
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>Mymensingh, Bangladesh</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+title: "About myself"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 My name is Md. Sujan Miah and I was born into a middle-class family in Rowmari, Kurigram. Education was always a priority in my family, and I was fortunate enough to attend Boalmari Govt. Primary School where I completed my primary education in 2010. I then went on to study at Shoulmari MR High School and Sadek Hossain Memorial School where I completed my high school education in 2016 with remarkable results. My hard work and dedication paid off when I was awarded the "অদম্য মেধাবী **(INDOMITABLE TALENT)**" award by the District Commissioner (DC) for my academic achievements in 2016.

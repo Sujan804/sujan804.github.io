@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Md. Sujan Miah"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer, AWGC"
+  bio              : "Software Engineer, Army War Game Center"
   location         : "Mymensingh, Bangladesh"
   employer         : "Mymensingh Engineering College, University of Dhaka"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : "sujanexp"
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : "sujanexp"
   mastodon         : # URL
-  medium           : "sujanexp" # URL
+  medium           : "@sujanexp" # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username

@@ -21,7 +21,7 @@ repository               : "Sujan804/sujan804.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "site-logo.png"
   name             : "Md. Sujan Miah"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer, Army War Game Center"

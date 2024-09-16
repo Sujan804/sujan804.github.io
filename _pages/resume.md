@@ -1,17 +1,16 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: - /resume
 ---
 
 {% include base_path %}
 
 Work experience
 ======
-* July 2023 - Jan 2024: Software Engineer
+* __July 2023 - Jan 2024:__ Software Engineer
   * [Neo Adaptive Functioning Intelligence](https://nafi-usa.com/)
     * Project:  Worked at several projects( NUSHUR - DISASTER TRAINING SIMULATION, green AI- ai that saves earth)
     * Expertise: **Geospatial technology**, **Qgis**, .NET Framework, CesiumJS, Desktop Application(**Winfrom, WPF**).
@@ -19,8 +18,8 @@ Work experience
     * Details: Assisted to develop an adaptive GIS-based AI system integrating biodiversity and fire service simulations using .NET (C#). Modeled environmental changes and built predictive simulations for dynamic decision-making.
 
 
-* February 2024 - Present: Software Programmer
-    * Army War Game Centre, Bangladesh Army
+* __February 2024 - Present:__ Software Programmer
+    * [Army War Game Centre, Bangladesh Army](https://en.wikipedia.org/wiki/ARTDOC#:~:text=Army%20War%20Game%20Centre)
     * Project: Contributing to the development of a constructive simulation system for training military officers, enabling them to make informed decisions in critical situations.
     * Expertise: __GIS__, .NET Framework(4.8), Desktop Application(Winform, WPF)
     * Programming Language: C#, JavaScript
@@ -28,7 +27,8 @@ Work experience
 
 Education
 ======
-* B.S.c in Computer Science and Engineering,Mymensingh Engineering College, University of Dhaka University, 2024
+* Mymensingh Engineering College, University of Dhaka, 2024
+  * B.S.c in Computer Science and Engineering
   * CGPA: 3.64 (90.75%)
 
 Skills
@@ -43,9 +43,9 @@ Skills
 
 Service and leadership
 ======
-* General Secretary [MEC Computer ClubMEC Computer Club](https://www.linkedin.com/company/mec-computer-club/)
+* General Secretary [MEC Computer Club](https://www.linkedin.com/company/mec-computer-club/)
   * Sept 2023 - Jan 2024
-* Organizing Secretary [MEC Computer ClubMEC Computer Club](https://www.linkedin.com/company/mec-computer-club/)
+* Organizing Secretary [MEC Computer Club](https://www.linkedin.com/company/mec-computer-club/)
   * Jan 2023 - Sept 2023
 * Executive of Event Management(IT Support) [School of Engineers](https://web.facebook.com/groups/schoolofengineers/?_rdc=1&_rdr)
   * Mymensingh Event - 2023

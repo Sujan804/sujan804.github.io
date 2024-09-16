@@ -212,6 +212,9 @@ collections:
   resume:
     output: true
     permalink: /:collection/:path/
+  works:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

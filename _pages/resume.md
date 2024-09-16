@@ -19,7 +19,7 @@ Work experience
 
 
 * __February 2024 - Present:__ Software Programmer
-    * [Army War Game Centre, Bangladesh Army](https://en.wikipedia.org/wiki/ARTDOC#:~:text=Army%20War%20Game%20Centre)
+  * [Army War Game Centre, Bangladesh Army](https://en.wikipedia.org/wiki/ARTDOC#:~:text=Army%20War%20Game%20Centre)
     * Project: Contributing to the development of a constructive simulation system for training military officers, enabling them to make informed decisions in critical situations.
     * Expertise: __GIS__, .NET Framework(4.8), Desktop Application(Winform, WPF)
     * Programming Language: C#, JavaScript
@@ -29,7 +29,7 @@ Education
 ======
 * Mymensingh Engineering College, University of Dhaka, 2024
   * B.S.c in Computer Science and Engineering
-  * CGPA: 3.64 (90.75%)
+  * CGPA: 3.63 (90.75%)
 
 Skills
 ======

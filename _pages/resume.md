@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
-* B.S.c in Computer Science and Engineering,Mymensingh Engineering College, University of Dhaka University, 2024
-
 Work experience
 ======
 * July 2023 - Jan 2024: Software Engineer
@@ -24,13 +19,17 @@ Work experience
     * Details: Assisted to develop an adaptive GIS-based AI system integrating biodiversity and fire service simulations using .NET (C#). Modeled environmental changes and built predictive simulations for dynamic decision-making.
 
 
-February 2024 - Present: Software Programmer
-  * Army War Game Centre, Bangladesh Army
-  * Project: Contributing to the development of a constructive simulation system for training military officers, enabling them to make informed decisions in critical situations.
-  * Expertise: __GIS__, .NET Framework(4.8), Desktop Application(Winform, WPF)
-  * Programming Language: C#, JavaScript
-  * Details: I contribute to the preparation module, focusing on troop training across diverse geolocations and creating realistic scenarios. I use the DotSpatial **GIS library and WinForms**, adapting additional libraries as needed.
+* February 2024 - Present: Software Programmer
+    * Army War Game Centre, Bangladesh Army
+    * Project: Contributing to the development of a constructive simulation system for training military officers, enabling them to make informed decisions in critical situations.
+    * Expertise: __GIS__, .NET Framework(4.8), Desktop Application(Winform, WPF)
+    * Programming Language: C#, JavaScript
+    * Details: I contribute to the preparation module, focusing on troop training across diverse geolocations and creating realistic scenarios. I use the DotSpatial **GIS library and WinForms**, adapting additional libraries as needed.
 
+Education
+======
+* B.S.c in Computer Science and Engineering,Mymensingh Engineering College, University of Dhaka University, 2024
+  * CGPA: 3.64 (90.75%)
 
 Skills
 ======

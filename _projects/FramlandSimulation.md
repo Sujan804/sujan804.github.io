@@ -47,25 +47,11 @@ namespace newSimulation
     }
 }
 ```
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/images/FarmLand/farm1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/images/FarmLand/farm2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/images/FarmLand/farm3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/images/FarmLand/farm6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div>
+    <br/><img src='/images/FarmLand/farm1.jpg'>
+    <br/><img src='/images/FarmLand/farm2.jpg'>
+    <br/><img src='/images/FarmLand/farm3.jpg'>
+    <br/><img src='/images/FarmLand/farm6.jpg'>
 </div>
 
 ## Technologies/Tools Used

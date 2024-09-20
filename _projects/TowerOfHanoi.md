@@ -10,13 +10,13 @@ collection: Project
 
 The Tower of Hanoi Simulation project is an interactive and graphical representation of the classic Tower of Hanoi puzzle implemented using the MonoGame framework. It provides users with a visual demonstration of the puzzle's rules and movements, allowing them to interact with the simulation.
 
-
-<div>
-    <br/><img src='/images/TOH/2.png' style="width: 100%; height: auto;">
-    <br/><img src='/images/TOH/3.png' style="width: 100%; height: auto;">
-    <br/><img src='/images/TOH/4.png' style="width: 100%; height: auto;">
-    <br/><img src='/images/TOH/5.png' style="width: 100%; height: auto;">
+<div style='display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;'>
+    <img src='/images/TOH/2.png' style='width: 100%; height: auto;'>
+    <img src='/images/TOH/3.png' style='width: 100%; height: auto;'>
+    <img src='/images/TOH/4.png' style='width: 100%; height: auto;'>
+    <img src='/images/TOH/5.png' style='width: 100%; height: auto;'>
 </div>
+
 ## Introduction
 
 The Tower of Hanoi is a mathematical puzzle that involves three pegs and a set of disks of different sizes. The objective is to move the entire stack of disks from one peg to another, following specific rules:

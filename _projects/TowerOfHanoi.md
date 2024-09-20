@@ -3,12 +3,19 @@ title: "Tower Of Hanoi Simulation using MonoGame"
 excerpt: "
     <div style='display: flex; align-items: center; height: 12vh;'>
         <div style='flex: 0 0 70%;'>The Tower of Hanoi Simulation project is an interactive and graphical representation of the classic Tower of Hanoi puzzle implemented using the MonoGame framework.</div>
-        <img src='/images/TOH/4.png.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
+        <img src='/images/TOH/4.png' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
     </div>"
 collection: Project
 ---
 
 The Tower of Hanoi Simulation project is an interactive and graphical representation of the classic Tower of Hanoi puzzle implemented using the MonoGame framework. It provides users with a visual demonstration of the puzzle's rules and movements, allowing them to interact with the simulation.
+
+<div style='display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;'>
+    <img src='/images/TOH/2.png' style='width: 100%; height: auto;'>
+    <img src='/images/TOH/3.png' style='width: 100%; height: auto;'>
+    <img src='/images/TOH/4.png' style='width: 100%; height: auto;'>
+    <img src='/images/TOH/5.png' style='width: 100%; height: auto;'>
+</div>
 
 ## Introduction
 

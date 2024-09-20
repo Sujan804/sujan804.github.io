@@ -1,9 +1,9 @@
 ---
 title: "FarmLand Simulation"
 excerpt: "
-    <div style='display: flex; align-items: center; height: 20vh;'>
+    <div style='display: flex; align-items: center; height: 12vh;'>
         <div style='flex: 0 0 70%;'>This project is a simulation of chickens and ducks interacting in a virtual environment</div>
-        <img src='/images/FarmLand/farm6.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 10px;'>
+        <img src='/images/FarmLand/farm6.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
     </div>"
 collection: Project
 ---

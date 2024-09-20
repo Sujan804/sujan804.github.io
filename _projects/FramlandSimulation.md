@@ -1,6 +1,10 @@
 ---
 title: "FarmLand Simulation"
-excerpt: "This project is a simulation of chickens and ducks interacting in a virtual environment <br/><img src='/images/FarmLand/farm6.jpg'>"
+excerpt: "
+    <div style='display: flex; align-items: center;'>
+        <div style='flex: 0 0 70%;'>This project is a simulation of chickens and ducks interacting in a virtual environment</div>
+        <img src='/images/FarmLand/farm6.jpg' style='flex: 0 0 30%; height: auto; margin-left: 10px;'>
+    </div>"
 collection: Project
 ---
 
@@ -48,11 +52,12 @@ namespace newSimulation
 }
 ```
 <div>
-    <br/><img src='/images/FarmLand/farm1.jpg'>
-    <br/><img src='/images/FarmLand/farm2.jpg'>
-    <br/><img src='/images/FarmLand/farm3.jpg'>
-    <br/><img src='/images/FarmLand/farm6.jpg'>
+    <br/><img src='/images/FarmLand/farm1.jpg' style="width: 100%; height: auto;">
+    <br/><img src='/images/FarmLand/farm2.jpg' style="width: 100%; height: auto;">
+    <br/><img src='/images/FarmLand/farm3.jpg' style="width: 100%; height: auto;">
+    <br/><img src='/images/FarmLand/farm6.jpg' style="width: 100%; height: auto;">
 </div>
+
 
 ## Technologies/Tools Used
 - C# programming language

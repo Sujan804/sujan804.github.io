@@ -29,7 +29,7 @@ Education
 ======
 * Mymensingh Engineering College, University of Dhaka, 2024
   * B.S.c in Computer Science and Engineering
-  * CGPA: 3.63 (90.75%)
+  * CGPA: 3.64 (91%)
 
 Skills
 ======

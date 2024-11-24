@@ -203,10 +203,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  publications:
+  blogs:
     output: true
     permalink: /:collection/:path/
-  blogs:
+  publications:
     output: true
     permalink: /:collection/:path/
   resume:
@@ -226,7 +226,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true

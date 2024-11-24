@@ -3,7 +3,7 @@ title: "How to Make a Map Using ArcGIS Pro"
 excerpt: "
     <div style='display: flex; align-items: center; height: 12vh;'>
         <div style='flex: 0 0 70%;'>A detailed guide on creating professional-grade maps using ArcGIS Pro, covering data preparation, layout design, and export.</div>
-        <img src='/images/post/arcGis/map.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
+        <img src='/images/blog/arcgis/map.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
     </div>"
 collection: Tutorial
 ---
@@ -58,7 +58,7 @@ Creating maps using ArcGIS Pro is an essential skill for GIS professionals and e
     <div style='display: flex; justify-content: center; margin: 20px 0;'>
         <img src='/images/arcgis/map-example.jpg' style='width: 80%; height: auto;'>
     </div>
-![Completed Map](/images/post/arcGis/map.jpg)  
+![Completed Map](/images/blog/arcgis/map.jpg)  
 *Figure: A sample map created in ArcGIS Pro.*
 
 ---

@@ -3,7 +3,7 @@ title: "How to Make a Map Using ArcGIS"
 excerpt: "
     <div style='display: flex; align-items: center; height: 12vh;'>
         <div style='flex: 0 0 70%;'>This guide will walk you through creating a map using ArcGIS, showcasing the tools and features that can help you visualize spatial data efficiently.</div>
-        <img src='/images/arcgis/map.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
+        <img src='/images/blog/arcgis/map.jpg' style='flex: 0 0 30%; height: 100%; object-fit: contain; margin-left: 1px;'>
     </div>"
 collection: Guide
 ---
@@ -11,7 +11,7 @@ collection: Guide
 Creating a map using ArcGIS is a powerful way to visualize geospatial data and present it in a meaningful way. In this guide, we'll walk through the process of creating a map, adding data layers, and customizing the display to suit your needs.
 
 <div style='display: flex; justify-content: center;'>
-    <img src='/images/arcgis/map.jpg' style='width: 80%; height: auto;'>
+    <img src='/images/blog/arcgis/map.jpg' style='width: 80%; height: auto;'>
 </div>
 
 
